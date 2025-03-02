@@ -1,0 +1,4 @@
+
+Finding Animals of Type: Snake
+Slither (3) (Venomous)
+Slither (3) (Venomous) [Rattle Segments: 10]

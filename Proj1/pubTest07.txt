@@ -1,0 +1,5 @@
+Simba has been added to the zoo.
+EagleOne has been added to the zoo.
+Failed to place Slither at row 0, col 1.
+Failed to place Slither at row 2, col 1.
+Slither has been added to the zoo.

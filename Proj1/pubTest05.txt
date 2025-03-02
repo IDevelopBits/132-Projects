@@ -1,0 +1,1 @@
+Failed to place Leo at row 0, col 0.

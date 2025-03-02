@@ -1,0 +1,9 @@
+
+Animals in the Zoo:
+Hiss (4) (Non-venomous)
+Jake (5) (Venomous)
+Leo (5) (Alpha)
+Simba (3) (Venomous)
+Simba (4)
+Simba (5) [Wingspan: 2.5 meters]
+Simon (3) (Venomous)
