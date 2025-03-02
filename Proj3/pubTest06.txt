@@ -1,0 +1,7 @@
+CircularDeque [deque=[null, null, 50, 30, 10], front=2, rear=0, size=3, capacity=5]
+CircularDeque [deque=[null, null, 50, 30, 10], front=2, rear=4, size=2, capacity=5]
+CircularDeque [deque=[null, null, 50, 30, 10], front=2, rear=3, size=1, capacity=5]
+CircularDeque [deque=[null, null, 50, 30, 10], front=2, rear=2, size=0, capacity=5]
+CircularDeque [deque=[null, null, 10, 30, 50], front=3, rear=0, size=2, capacity=5]
+CircularDeque [deque=[null, null, 10, 30, 50], front=4, rear=0, size=1, capacity=5]
+CircularDeque [deque=[null, null, 10, 30, 50], front=0, rear=0, size=0, capacity=5]

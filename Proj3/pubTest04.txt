@@ -1,0 +1,1 @@
+CircularDeque [deque=[20, 60, 50, 30, 10], front=1, rear=3, size=2, capacity=5]
