@@ -1,0 +1,7 @@
+== Polymorphic List Test ==
+Adding Person elements...
+[[Joe] 123, [Joe] 456 2025 3.5, [Mark] 789, [Jen] 135 2024 3.6]
+Adding an element from an array...
+[[Joe] 123, [Joe] 456 2025 3.5, [Jen] 135 2024 3.6, [Jeff] 246]
+Error removing non-existent element: Element not found.
+[[Joe] 123, [Joe] 456 2025 3.5, [Jen] 135 2024 3.6]

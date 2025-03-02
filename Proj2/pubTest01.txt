@@ -1,0 +1,23 @@
+== Homogeneous List (String) Test ==
+Adding elements to the String list...
+Error adding integer to String list: Invalid element type.
+Accessing elements:
+Element at index 0: Hello
+Element at index 1: World
+Element at index 2: Java
+Size of the list: 3
+Removing element at index 1 (World)...
+[Hello, Java]
+[Hello, Java, null, null, null, null, null, null, null, null]
+Error removing non-existent element: Element not found.
+Checking if the list contains 'Hello': true
+Checking if the list contains 'World': false
+Trimming to size...
+Size after trim: 2
+[Hello, Java]
+[Hello, Java]
+Creating a sublist from index 0 to 1...
+[Hello]
+Clearing the list...
+[]
+[null, null, null, null, null, null, null, null, null, null]

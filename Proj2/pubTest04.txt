@@ -1,0 +1,14 @@
+Initial size (should be 0): 0
+Size after pushing elements (should be 3): 3
+Stack content (should be 'Stack: [10, 20, 30]'): Stack: [10, 20, 30]
+Peek top element (should be 30): 30
+Popped element (should be 30): 30
+Size after popping an element (should be 2): 2
+Peek top element (should be 20): 20
+Popped element (should be 20): 20
+Popped element (should be 10): 10
+Size after popping all elements (should be 0): 0
+Is stack empty (should be true): true
+Exception when popping from empty stack (message): Stack is empty. Cannot pop.
+Exception when peeking from empty stack (message): Stack is empty. Cannot peek.
+Size after clear (should be 0): 0
